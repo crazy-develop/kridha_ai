@@ -1,0 +1,48 @@
+Question,Answer,Category,Key Detail,Related Entity,Access/Availability
+What crop are you selling?,"I am selling fresh, locally grown tomatoes that were cultivated using standard farming practices and are ready for market distribution.",Farmer Input,Crop Type,Farmer,Required
+How much quantity do you have?,"I currently have around 100 kg of tomatoes available for sale, and more stock may become available in the next harvest cycle.",Farmer Input,Quantity,Farmer,Required
+What price are you expecting?,I am expecting a price of around ₹15 per kg based on my production cost and current local market trends.,Pricing,Expected Price,Farmer,Required
+When will your crop be ready?,The crop is fully grown and will be ready for harvesting and sale by tomorrow morning.,Farmer Input,Harvest Time,Farmer,Required
+Do you need transportation support?,"Yes, I would prefer transportation support as I do not have direct access to efficient delivery services.",Logistics,Transport Needed,Logistics System,Optional
+What product do you want to buy?,I am looking to purchase fresh tomatoes that are directly sourced from farmers to ensure quality and fairness in pricing.,Customer Input,Product Type,Customer,Required
+How much quantity do you need?,I need approximately 5 kg of tomatoes for household consumption.,Customer Input,Quantity,Customer,Required
+What quality do you prefer?,"I prefer fresh, chemical-free, and naturally grown products that are safe and healthy for consumption.",Customer Preference,Quality Type,Customer,Optional
+When do you need delivery?,I would like the delivery to be completed by tomorrow evening at my preferred address.,Logistics,Delivery Time,Customer,Required
+Do you want to see farmer details?,"Yes, I want full transparency including farmer details, origin of the product, and how it was produced.",Trust,Transparency,Customer,Optional
+Where is the pickup location?,"The pickup location is the farmer’s field located in Dholpur, where the produce is currently stored after harvesting.",Logistics,Source Location,Farmer,Required
+What is the delivery location?,"The delivery location is Agra, where the customer has requested the product to be delivered.",Logistics,Destination,Customer,Required
+Do you need cold storage?,"No, cold storage is not required for this product as it will be delivered within a short time frame.",Logistics,Storage Need,System,Optional
+Should I sell now or wait?,"Based on current market trends and demand analysis, the AI suggests selling now as prices are favorable and may drop soon.",AI Decision,Price Optimization,AI System,Auto
+Where can I get the best price?,"According to market data, nearby urban areas like Agra are offering better prices compared to local mandis.",AI Decision,Market Suggestion,AI System,Auto
+What is current demand?,The demand for tomatoes is currently high due to seasonal variations and supply shortage in nearby markets.,AI Insight,Demand Level,AI System,Auto
+Do you want price prediction?,"Yes, I would like to see price predictions for the next 7 days to plan my selling strategy better.",AI Feature,Forecasting,Customer/Farmer,Optional
+Do you want demand alerts?,"Yes, I want to receive notifications whenever there is a significant increase or decrease in demand.",AI Feature,Alerts,Customer,Optional
+Can delivery be grouped?,"Yes, I am comfortable with grouped delivery if it reduces cost and improves efficiency.",Logistics,Optimization,System,Optional
+Do you want live tracking?,"Yes, I would like to track my order in real-time from pickup to final delivery.",Logistics,Tracking,Customer,Optional
+Is this product organic?,"Yes, the product is organically grown and verified through proper certification and quality checks.",Trust,Certification,Farmer,Required
+Can I track product journey?,"Yes, you can scan the QR code to view the complete journey from farm to delivery, including all handling stages.",Trust,Traceability,System,Required
+Can I see price breakdown?,"Yes, the price breakdown shows ₹15/kg for the farmer, ₹3 for logistics, and ₹2 as platform service fee.",Transparency,Cost Breakdown,System,Optional
+Do you want subscription delivery?,"Yes, I would like to subscribe for weekly delivery to ensure a consistent supply of fresh vegetables.",Customer Preference,Subscription,Customer,Optional
+Are you willing to pay platform fee?,"Yes, I am willing to pay a small platform fee if it provides better pricing insights and transparency.",Business Model,Monetization,Customer,Optional
+Do you want to store your crop for better future pricing?,"Yes, if the price is expected to increase in the next few days, I would prefer storing it to maximize profit.",Farmer Strategy,Storage Decision,Farmer,Optional
+Do you want to store your crop for better future pricing?,"My production cost is around ₹8 per kg including seeds, labor, and transportation.",Farmer Strategy,Cost Analysis,Farmer,Required
+What is your cost of production per kg?,I do not want to sell below ₹12 per kg to avoid losses.,Farmer Strategy,MSP Expectation,Farmer,Required
+What is your minimum selling price?,"Yes, I prefer building long-term relationships with reliable buyers.",Farmer Strategy,Customer Retention,Farmer,Optional
+Do you want to connect with repeat buyers?,"Yes, I want to compare my prices with nearby markets to stay competitive.",Market Intelligence,Price Comparison,AI System,Optional
+Do you want insights about competitor pricing?,"Yes, I want to analyze weekly demand trends for better planning.",Market Intelligence,Trend Analysis,AI System,Optional
+Do you want demand trends over time?,"Yes, instant alerts will help me sell at the highest price.",Market Intelligence,Alerts,AI System,Optional
+Should AI notify you about price spikes?,"Yes, based on my previous buying behavior and preferences.",Customer Experience,Personalization,Customer,Optional
+Do you want customized product recommendations?,"Yes, I prefer sustainable and environmentally friendly packaging.",Customer Experience,Sustainability,Customer,Optional
+Do you prefer eco-friendly packaging?,"Yes, I prefer buying directly from small farmers to support them.",Customer Experience,Ethical Buying,Customer,Optional
+Would you like to support small farmers?,"Yes, I can accept delivery at a nearby pickup point if needed.",Logistics,Flexibility,Customer,Optional
+Are you flexible with delivery location change?,"Yes, I am willing to pay extra charges for faster delivery.",Logistics,Speed,Customer,Optional
+Do you want express delivery?,"Yes, AI should automatically choose the fastest and most efficient route.",Logistics,Route Optimization,AI System,Auto
+Should AI optimize delivery route?,"Yes, AI can automatically sell when the best price is available.",AI Automation,Auto Sell,Farmer,Optional
+Do you want auto-selling enabled?,"Yes, AI should track and update stock levels automatically.",AI Automation,Inventory,AI System,Optional
+Do you want AI to manage inventory?,"Yes, I want recommendations for next season based on demand.",AI Automation,Crop Planning,AI System,Optional
+Should AI suggest crop planning?,"Yes, ratings and reviews help me trust the seller.",Trust,Ratings,Customer,Optional
+Do you want to see farmer ratings?,"Yes, it helps build trust with customers.",Trust,Verification,Farmer,Optional
+Do you want to upload certification proof?,"Yes, in case of quality issues I need support.",Trust,Support,System,Optional
+Do you want dispute resolution support?,"Yes, financial support will help expand farming operations.",Business Growth,Finance,Farmer,Optional
+Do you want access to micro-loans?,"Yes, insurance will help reduce risk.",Business Growth,Risk Management,Farmer,Optional
+Do you want crop insurance suggestions?,"Yes, I want to track my income and performance.",Business Growth,Analytics,Farmer,Optional
