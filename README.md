@@ -73,7 +73,7 @@ This will spin up your Kridha Workspace at `http://localhost:8501`.
 
 ---
 
-## 👥 Meet the Team & Insights
+## 👥 Meet the Team Kridha & Insights
 
 Behind the development of **Kridha Workspace** is a dedicated team pushing the boundaries of AI integration in Agritech and supply chain systems. Learn more about our technical architecture, design philosophy, and implementations by reading our articles:
 
