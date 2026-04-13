@@ -72,4 +72,20 @@ streamlit run app.py
 This will spin up your Kridha Workspace at `http://localhost:8501`. 
 
 ---
+
+## 👥 Meet the Team & Insights
+
+Behind the development of **Kridha Workspace** is a dedicated team pushing the boundaries of AI integration in Agritech and supply chain systems. Learn more about our technical architecture, design philosophy, and implementations by reading our articles:
+
+- 👩‍💻 **Kalpana Yadav** | [We Use AI to Create a Transparent Farm-to-Customer System](https://www.linkedin.com/pulse/we-use-ai-create-transparent-farm-to-customer-system-helps-yadav-xvrhc)
+- 👨‍💻 **Dushyant Saini** | [Beyond Chatbots: Building Kridha AI Intelligent Agent](https://www.linkedin.com/pulse/beyond-chatbots-building-kridha-ai-intelligent-agent-learns-saini-euamc)
+- 👨‍💻 **Mayank Agrawal** | [Building an AI System That Doesn't Forget](https://www.linkedin.com/posts/mayankagrawal27_building-an-ai-system-that-doesnt-forget-ugcPost-7449523430628155392-L4vz?utm_source=share&utm_medium=member_android&rcm=ACoAAF2XZ7kB1WSc_HiRUvaetzWmoVz0B4L2wvw)
+- 👩‍💻 **Unnati Gupta** | [Agritech Supply Chain for Farmers](https://www.linkedin.com/posts/unnati-gupta-b91305328_agritech-supplychain-farmers-ugcPost-7449517845861883905-ecj9?utm_source=share&utm_medium=member_android&rcm=ACoAAFKgjF0BZmxmQgc5mYadH8We9eounv6q1dY)
+- 👨‍💻 **Kishan Kumar** | [Debugging Supply Chain Systems Using Hindsight Logs](https://www.linkedin.com/pulse/debugging-supply-chain-system-using-hindsight-logs-kishan-nishad-en8dc)
+
+### 🎥 Project Overview Video
+Watch a complete demonstration and explanation of Kridha AI in action:
+▶️ **[Kridha AI Agent - YouTube Showcase](https://youtu.be/kLrwE3ZRiiA)**
+
+---
 *Built with ❤️ utilizing Groq and Streamlit.*
